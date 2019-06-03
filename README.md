@@ -1,4 +1,34 @@
-## Welcome to GitHub Pages
+
+<h1>World Wide Web (Web) </h1> 
+<br>
+multimedia-based collection of information, services, and Web sites supported by the Internet
+<br>
+Internet – vast network of computers that connects millions of people all over the world
+<br>
+The Web & Internet are different
+<br>
+Many people see them as the same
+<br>
+The Internet is the infrastructure that makes the Web possible
+<br>
+Web site – a specific location on the Web where you visit, gather information, and perhaps even order products
+<br>
+USA Today
+<br>
+Web site address – unique name that identifies a specific site on the Web
+<br>
+www.usatoday.com
+<br>
+Also called a domain name
+<br>
+Web page – a specific portion of a Web site that deals with a certain topic
+<br>
+•	Sports in the USA Today
+<br>
+•	URL (uniform resource locator) – an address for a specific Web page or document within a Web site
+<br>
+•	www.usatoday.com/sports/sfront.html 
+
 
 You can use the [editor on GitHub](https://github.com/mohamedsesay/Mohamed-Sasay/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
